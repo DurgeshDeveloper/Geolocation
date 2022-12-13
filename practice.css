@@ -1,13 +1,19 @@
 #main {
     height:100px;
-    width:50%;
+    width:30%;
     background-color:antiquewhite;
-    margin-left:25%;
+    margin-left:35%;
     text-align:center;
     margin-top:10%;
+    
 }
 
 button {
-    
+    font-size:20px;
     margin-top:5%;
+}
+
+button img {
+
+height:25px;
 }
